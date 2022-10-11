@@ -1,0 +1,29 @@
+Prompt #1:  Explain the data you have organized in the "input.dat" file. Your explanation should be detailed enough for others to expand your data file with additional data using the same structure.
+
+// Provided the city, state, zipcode, and covid cases in multiple counties in California within the past 14 days.
+
+
+Prompt #2:  What would the output look like if a user wants to browser your database without any filter or sorting criteria?
+
+// It would display the entire list of counties and zipcodes in California and there covid cases each day.
+
+Prompt #3: Give two example filter criteria that would be interesting to apply. These are not commitments you are making for the final project.
+
+// Filters could be the population that exceeds over 100k anoter would be cities that have a population less than 100k. Another filter could be major hotspots of infections.
+
+Prompt #4: Give two example sorting criteria that would be interesting to apply. These are not commitments you are making for the final project.
+
+// Sort them into highest change in cases to lowest change in cases. I could also sort them into into counties that are located in the south or north regions of California.
+
+Prompt #5: Describe two analyses that would focus on data within one group. These are not commitments you are making for the final project.
+
+//  I would use highest cases within the past 14 days. Another I would use is lowest cases in the past 14 days.
+ 
+
+Prompt #6: Describe two analyses that would require data from multiple groups. These are not commitments you are making for the final project.
+
+// I would seperate Counties in California based on location and density compared to Counties that have lower density. Aplplying multiple groups of couties I would analyze and compare and contast how bad or good they are doing in regrad to covid cases. Another analyses could be vaccinations to covid cases ratio. 
+
+Prompt #7: How and why is this project personal or interesting to you?
+
+// This project really intrest me because it allows me to work on a topic that I find really useful especially in times like today and another reason is because it allows me to showcase my skills that i've learned from the past couple months.
