@@ -51,4 +51,4 @@ San Francisco,California,883255,544
 
 ---
 
-Thank you for using this COVID-19 Statistics Analyzer. We hope it proves useful for analyzing and understanding the impact of the pandemic on different cities. If you have any questions or need assistance, please refer to the documentation or contact the project maintainers.
+Thank you for using this COVID-19 Statistics Analyzer. We hope it proves useful for analyzing and understanding the impact of the pandemic on different cities.
