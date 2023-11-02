@@ -41,28 +41,13 @@ This C++ project is designed to retrieve and analyze COVID-19 statistics from a 
 The program expects the data file to follow a specific format. Here's an example:
 
 ```plaintext
-City,Population,Infections,Deaths,Recoveries
-New York,8623000,93250,2012,87560
-Los Angeles,3995000,68740,890,63580
+San Diego,California,3347270,3729
+136 144 129 160 155 0 281 263 256 152 149 1 561 281
+San Francisco,California,883255,544
+24 28 20 25 33 34 24 77 23 21 41 39 46 49
+...
 ...
 ```
-
-- The first line should contain column headers: "City," "Population," "Infections," "Deaths," and "Recoveries."
-- Subsequent lines should contain data for each city, separated by commas.
-
-## Note
-
-- This project is intended for educational and analytical purposes, and the data used should be kept up-to-date.
-- Ensure the data file is correctly formatted to avoid errors during data retrieval.
-- The program should be used responsibly, considering privacy and ethical concerns when dealing with COVID-19 statistics.
-
-## Contributing
-
-If you'd like to contribute to this project or report issues, please follow the guidelines in the project's repository.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
