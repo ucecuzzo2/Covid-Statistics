@@ -1,6 +1,6 @@
 # COVID-19 Statistics Analyzer
 
-This C++ project is designed to retrieve and analyze COVID-19 statistics from a data file. It allows users to display statistics in a tabular format for various categories and provides functionality to sort, remove, and display statistics for cities severely impacted by COVID-19 within a one-week span of infection surges. This README file provides an overview of the project, its features, and instructions for usage.
+This C++ project is designed to retrieve and analyze COVID-19 statistics from a data file. This school project encompasses different sorting algorithms from CS 111 (Intro to Computer Science). The overall project allows users to display statistics in a tabular format for various categories and provides functionality to sort, remove, and display statistics for cities severely impacted by COVID-19 within a one-week span of infection surges. This README file provides an overview of the project, its features, and instructions for usage.
 
 ## Features
 
